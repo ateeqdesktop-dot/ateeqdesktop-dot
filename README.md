@@ -8,6 +8,7 @@ I focus on the engineering boundary between AI capability and operational trust:
 
 | Project | What it demonstrates |
 |---|---|
+| [BidiFence](https://github.com/ateeqdesktop-dot/bidifence) | Deterministic RTL/i18n conformance checks for Playwright with SARIF, baselines, and Arabic fixtures |
 | [TraceSift](https://github.com/ateeqdesktop-dot/tracesift) | Offline causal diagnosis and privacy-safe regression fixtures for AI-agent traces |
 | [VeriTrace](https://github.com/ateeqdesktop-dot/veritrace) | Deterministic conformance and replay testing for agent governance |
 | [ML ProofLedger](https://github.com/ateeqdesktop-dot/ml-proofledger) | Portable, verifiable evidence manifests for machine-learning runs |
