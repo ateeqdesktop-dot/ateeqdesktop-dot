@@ -8,6 +8,7 @@ I focus on the engineering boundary between AI capability and operational trust:
 
 | Project | What it demonstrates |
 |---|---|
+| [CorpusSeal](https://github.com/ateeqdesktop-dot/corpus-seal) | Evidence-first benchmark contamination and dataset integrity auditing with deterministic exact/near matching, SARIF, HTML, and GitHub Actions |
 | [BidiFence](https://github.com/ateeqdesktop-dot/bidifence) | Deterministic RTL/i18n conformance checks for Playwright with SARIF, baselines, and Arabic fixtures |
 | [TraceSift](https://github.com/ateeqdesktop-dot/tracesift) | Offline causal diagnosis and privacy-safe regression fixtures for AI-agent traces |
 | [VeriTrace](https://github.com/ateeqdesktop-dot/veritrace) | Deterministic conformance and replay testing for agent governance |
@@ -16,7 +17,7 @@ I focus on the engineering boundary between AI capability and operational trust:
 
 ## Engineering interests
 
-AI reliability and observability, OpenTelemetry-compatible trace contracts, reproducible ML evaluation, privacy-preserving artifacts, policy-as-code, Python tooling, API design, test architecture, and open-source maintenance.
+AI reliability and observability, benchmark and dataset integrity, OpenTelemetry-compatible trace contracts, reproducible ML evaluation, privacy-preserving artifacts, policy-as-code, Python tooling, API design, test architecture, and open-source maintenance.
 
 ## Technical stack
 
