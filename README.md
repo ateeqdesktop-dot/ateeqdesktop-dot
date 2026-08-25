@@ -4,10 +4,11 @@ Software engineer building **trustworthy, reproducible, and inspectable systems*
 
 I focus on the engineering boundary between AI capability and operational trust: evidence, provenance, deterministic evaluation, privacy-aware debugging, and failure-resistant developer tools.
 
-## Flagship project
+## Flagship projects
 
 | Project | What it demonstrates | Status |
 |---|---|---|
+| [DiffProof](https://github.com/ateeqdesktop-dot/diffproof) | Portable, privacy-safe, verifiable change evidence capsules for pull requests with impact findings, deterministic integrity, offline verification, SARIF/JUnit-ready CI output, and a composite GitHub Action | [v0.1.0](https://github.com/ateeqdesktop-dot/diffproof) |
 | [FaultPack](https://github.com/ateeqdesktop-dot/faultpack) | Portable, privacy-first, verifiable failure evidence with safe capture, redaction, integrity checks, replay, reduction, differential comparison, Ed25519 signatures, CI reports, and a composite GitHub Action | [v1.0.0 Release](https://github.com/ateeqdesktop-dot/faultpack/releases/tag/v1.0.0) |
 
 FaultPack is the clearest expression of my engineering approach: **small stable contracts, fail-closed behavior, deterministic evidence, and explicit security boundaries**. It is local-first and does not require a hosted account, model call, or implicit upload. The v1.0.0 release includes a tested wheel, source distribution, and architecture documentation.
