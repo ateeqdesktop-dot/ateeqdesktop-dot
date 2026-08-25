@@ -6,11 +6,19 @@ I focus on the engineering boundary between AI capability and operational trust:
 
 ## Flagship project
 
-| Project | What it demonstrates |
-|---|---|
-| [FaultPack](https://github.com/ateeqdesktop-dot/faultpack) | Portable, privacy-first, verifiable failure reproduction packs with safe input capture, redaction, integrity checks, replay, bounded reduction, CI reports, and a composite GitHub Action |
+| Project | What it demonstrates | Status |
+|---|---|---|
+| [FaultPack](https://github.com/ateeqdesktop-dot/faultpack) | Portable, privacy-first, verifiable failure evidence with safe capture, redaction, integrity checks, replay, reduction, differential comparison, Ed25519 signatures, CI reports, and a composite GitHub Action | [v1.0.0 Release](https://github.com/ateeqdesktop-dot/faultpack/releases/tag/v1.0.0) |
 
-FaultPack is the clearest expression of my engineering approach: **small stable contracts, fail-closed behavior, deterministic evidence, and explicit security boundaries**. It is local-first and does not require a hosted account, model call, or implicit upload.
+FaultPack is the clearest expression of my engineering approach: **small stable contracts, fail-closed behavior, deterministic evidence, and explicit security boundaries**. It is local-first and does not require a hosted account, model call, or implicit upload. The v1.0.0 release includes a tested wheel, source distribution, and architecture documentation.
+
+## Engineering snapshot
+
+| Signal | Current focus |
+|---|---|
+| Reliability | Reproducible failure evidence, regression fixtures, and deterministic replay |
+| Trust | Provenance, signatures, privacy boundaries, and explainable verification |
+| Developer experience | CLI-first workflows, GitHub Actions, SARIF/JUnit reports, and maintainable contracts |
 
 ## Selected work
 
