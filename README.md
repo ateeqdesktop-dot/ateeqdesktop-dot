@@ -1,10 +1,18 @@
 # Ateeq Janam Dev
 
-Software engineer building **trustworthy, reproducible, and inspectable AI systems**.
+Software engineer building **trustworthy, reproducible, and inspectable systems**.
 
 I focus on the engineering boundary between AI capability and operational trust: evidence, provenance, deterministic evaluation, privacy-aware debugging, and failure-resistant developer tools.
 
-## Featured work
+## Flagship project
+
+| Project | What it demonstrates |
+|---|---|
+| [FaultPack](https://github.com/ateeqdesktop-dot/faultpack) | Portable, privacy-first, verifiable failure reproduction packs with safe input capture, redaction, integrity checks, replay, bounded reduction, CI reports, and a composite GitHub Action |
+
+FaultPack is the clearest expression of my engineering approach: **small stable contracts, fail-closed behavior, deterministic evidence, and explicit security boundaries**. It is local-first and does not require a hosted account, model call, or implicit upload.
+
+## Selected work
 
 | Project | What it demonstrates |
 |---|---|
