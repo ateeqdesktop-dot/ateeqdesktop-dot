@@ -6,7 +6,7 @@ I focus on the engineering boundary between AI capability and operational trust:
 
 ## Flagship project
 
-[FaultPack](https://github.com/ateeqdesktop-dot/faultpack) is my primary open-source project: a local-first, privacy-preserving evidence interchange for reproducible software failures and AI-agent/tool runs. The `v1.3.0` release adds digest-first event timelines, offline semantic evidence diff, producer-neutral contracts, signed artifacts, replay, reduction, SARIF/JUnit reports, and a reusable GitHub Action.
+[FaultPack](https://github.com/ateeqdesktop-dot/faultpack) is my primary open-source project: a local-first, privacy-preserving evidence interchange for reproducible software failures and AI-agent/tool runs. The `v1.4.0` release adds a verified, dependency-free offline HTML evidence viewer alongside digest-first event timelines, offline semantic evidence diff, producer-neutral contracts, signed artifacts, replay, reduction, SARIF/JUnit reports, and a reusable GitHub Action.
 
 > Capture once. Share safely. Verify independently. Replay anywhere.
 
